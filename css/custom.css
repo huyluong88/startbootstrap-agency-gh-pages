@@ -1,0 +1,33 @@
+header {
+    background-image: none;
+    background-color: gray;
+}
+
+.intro-lead-in {
+    padding: 5em;
+}
+
+#city {
+    color: black;
+    font-weight: bold;
+}
+
+#datepicker {
+    color: black;
+}
+
+#datepicker2 {
+    color: black;
+}
+
+select {
+    color: black;
+}
+
+#numOfChildren {
+    padding: 2em;
+}
+
+#submitBtn {
+    color: black;
+}
